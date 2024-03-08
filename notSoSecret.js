@@ -1,6 +1,6 @@
 kdfjkldsfj f e;fksd;for (const  ff
     ew WritableStreamDefaultWriter
-    rew'rew
+    rew're
     re
      in object) {
 }
